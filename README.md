@@ -2,8 +2,6 @@
 
 This is an in-progress machine learning project focused on resume screening and job recommendation using NLP techniques.
 
-The goal of the project is to analyze resume text, extract relevant skills, and recommend suitable job roles based on similarity matching and text processing methods.
-
 ## Current Progress
 
 * exploring NLP preprocessing techniques
@@ -26,10 +24,6 @@ The goal of the project is to analyze resume text, extract relevant skills, and 
 * scikit-learn
 * NLP preprocessing
 * TF-IDF vectorization
-
-## Project Status
-
-Currently in the early development and research phase.
 
 ## Future Improvements
 
