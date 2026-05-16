@@ -1,3 +1,4 @@
+```python
 # resume screening and job recommendation system
 
 import pandas as pd
@@ -19,3 +20,4 @@ jobs = [
     "Frontend Developer",
     "Mechanical Engineer"
 ]
+```
